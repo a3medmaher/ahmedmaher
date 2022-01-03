@@ -47,7 +47,7 @@ section
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-color: rgb(95, 160, 98);
+    background-color:#000;
 }
 .main h2
 {
@@ -58,7 +58,7 @@ section
 .main h2 span
 {
     display: inline-block;
-    color:#070205;
+    color:mediumseagreen;
     font-size: 3em;
     font-weight: 600;
 }
@@ -146,7 +146,7 @@ section
 }
 .projects
 {
-    background-color:rgb(95, 160, 98);
+    background-color:rgb(169, 215, 253);
 }
 .projects.content
 {
@@ -215,7 +215,7 @@ color: #601cfc;
 }
 .footer
 {
-    background-color:rgb(95, 160, 98);
+    background-color:#000;
     color: #fff;
     padding: 2em;
     display: flex;
